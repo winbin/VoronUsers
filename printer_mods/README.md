@@ -400,6 +400,8 @@ like so:
 | Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 | | [Stealthburner + CW1 + PCB Cover](./wile-e1/Stealthburner_CW1_PCB_Cover) | Low-poly for Stealthburner + CW1 + PCB installations: | :x: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:grey_question:|
 | wrez | [V0 Alternate IEC 320 C14 Power Inlet Housing](./wrez/astrodyne-inlet) | Drop in replacement for alternate-source power inlet if spec inlet is back-ordered | :heavy_check_mark: | :x: | :x: | :x: |
+| winbin | [V0.1 MGN9C](./winbin/Voron0_MGN9C) | change linear rail of voron0 to mgn9c | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| | [Stealthburner_OLED](./winbin/Stealthburner_OLED) | add OLED to Stealthburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
